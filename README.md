@@ -3,6 +3,7 @@ Using improved EfficientNet B7, improved accuracy to 99.99%(special technology f
 
 ## VGG-16, VGG-19, Resnet-50, Inception V3, EfficientNet B0, EfficientNet B7 
 
+
 Model                      accuracy
 
 VGG-16            _________________         98.52%
