@@ -1,8 +1,7 @@
 # Clothing_class_classification-99.99%-
 Using improved EfficientNet B7, improved accuracy to 99.99%(special technology for customizing)
 
-## VGG-16, VGG-19, Resnet-50, Inception V3, EfficientNet B0, EfficientNet B7 
-
+##  VGG-16, VGG-19, Resnet-50, Inception V3, EfficientNet B0, EfficientNet B7 
 
 Model                      accuracy
 
